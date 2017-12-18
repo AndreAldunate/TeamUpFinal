@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "367028028759",
+    "firebase_url": "https://proyectocerti.firebaseio.com",
+    "project_id": "proyectocerti",
+    "storage_bucket": "proyectocerti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367028028759:android:0937b6baf8e1c51a",
+        "android_client_info": {
+          "package_name": "com.example.andre.proyectocerti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367028028759-2finj5nrh42e5mo0b8bbe6nf53ek8ie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfnVmsr2_2sBB5J_rWfLxA9Ep1CAsXPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
